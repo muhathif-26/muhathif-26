@@ -1,0 +1,31 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Wraps the activity list between the markers below in README.md:
+          # <!--START_SECTION:activity-->
+          # <!--END_SECTION:activity-->
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "readme-bot"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update recent activity [skip ci]"
+          git push
