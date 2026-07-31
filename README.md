@@ -69,7 +69,7 @@ muhathif@dev:~$ whoami
 
 ```yaml
 Name          : Muhammed Muhathif
-Role          : Software Developer
+Role          : Software Engineer 
 Focus         : Full-Stack & AI-driven Applications
 Stack         : JavaScript · Python · React · Node.js
 Currently     : Building production-grade booking & healthcare systems
@@ -100,8 +100,8 @@ and a prescription management system.
 | ☕ **Coffee Level** | ████████░░ 80% |
 | 🚧 **Current Project** | Car Rental Booking System |
 | 📈 **Years Learning** | 2+ years |
-| 📍 **Location** | EDIT_ME |
-| 🕒 **Timezone** | EDIT_ME (UTC±X) |
+| 📍 **Location** | Nintavur , Sri Lanka |
+| 🕒 **Timezone** | Sri Lanka (GMT±5) |
 | 💬 **Preferred Languages** | JavaScript, Python |
 | 🎯 **Current Goal** | Land a Software Developering internship |
 | 🌱 **Open Source** | Learning to contribute |
