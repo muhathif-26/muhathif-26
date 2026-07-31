@@ -1,0 +1,28 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"     # daily at 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: graph
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
