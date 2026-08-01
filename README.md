@@ -42,7 +42,7 @@
 <br/><br/>
 
 <a href="https://linkedin.com/in/muhammad_muhathif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://EDIT_ME-portfolio.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-05070c?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
+<a href="https://muhathifportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-05070c?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
 <a href="mailto:muhathifmuhathif26@gmail.com"><img src="https://img.shields.io/badge/Email-05070c?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 <a href="https://x.com/Muhaathif_MH" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
@@ -69,7 +69,7 @@ muhathif@dev:~$ whoami
 
 ```yaml
 Name          : Muhammed Muhathif
-Role          : Software Engineer 
+Role          : Software Developer
 Focus         : Full-Stack & AI-driven Applications
 Stack         : JavaScript · Python · React · Node.js
 Currently     : Building production-grade booking & healthcare systems
@@ -100,8 +100,8 @@ and a prescription management system.
 | ☕ **Coffee Level** | ████████░░ 80% |
 | 🚧 **Current Project** | Car Rental Booking System |
 | 📈 **Years Learning** | 2+ years |
-| 📍 **Location** | Nintavur , Sri Lanka |
-| 🕒 **Timezone** | Sri Lanka (GMT±5) |
+| 📍 **Location** | EDIT_ME |
+| 🕒 **Timezone** | EDIT_ME (UTC±X) |
 | 💬 **Preferred Languages** | JavaScript, Python |
 | 🎯 **Current Goal** | Land a Software Developering internship |
 | 🌱 **Open Source** | Learning to contribute |
@@ -421,7 +421,7 @@ EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
 
 <a href="https://github.com/muhathif-26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/EDIT_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://EDIT_ME-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/></a>
+<a href="https://muhathifportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/></a>
 <a href="mailto:EDIT_ME@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/EDIT_ME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://discord.com/users/EDIT_ME"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
