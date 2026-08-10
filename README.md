@@ -340,9 +340,9 @@ prescribing and dispensing workflow.
 
 <div align="center">
 
-**EDIT_ME — Degree / Program**
+**HNDIT — Diploma / Program**
 <br/>
-EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
+ATI Sammanthurai &nbsp;•&nbsp; 2nd Year – Present
 
 </div>
 
@@ -352,14 +352,11 @@ EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/EDIT_ME?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="180"/>
+<img src="https://leetcard.jacoblin.cool/Muhathif_mx?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="180"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Codeforces-EDIT__ME-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-EDIT__ME-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-EDIT__ME-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-EDIT__ME-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
 
 </div>
 
@@ -420,12 +417,12 @@ EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
 <div align="center">
 
 <a href="https://github.com/muhathif-26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/EDIT_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhammad_muhathif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://muhathifportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/></a>
-<a href="mailto:EDIT_ME@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/EDIT_ME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:muhathifmuhathif26@@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/Muhaathif_MH"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://discord.com/users/EDIT_ME"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://instagram.com/EDIT_ME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/itz__muha__offxl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
