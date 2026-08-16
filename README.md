@@ -100,8 +100,8 @@ and a prescription management system.
 | ☕ **Coffee Level** | ████████░░ 80% |
 | 🚧 **Current Project** | Car Rental Booking System |
 | 📈 **Years Learning** | 2+ years |
-| 📍 **Location** | EDIT_ME |
-| 🕒 **Timezone** | EDIT_ME (UTC±X) |
+| 📍 **Location** | Nintavur , Sri Lanka |
+| 🕒 **Timezone** |Sri Lanka  (GMT±5.30) |
 | 💬 **Preferred Languages** | JavaScript, Python |
 | 🎯 **Current Goal** | Land a Software Developering internship |
 | 🌱 **Open Source** | Learning to contribute |
