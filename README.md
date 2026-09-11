@@ -370,16 +370,7 @@ ATI Sammanthurai &nbsp;•&nbsp; 2nd Year – Present
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## 🎧 &nbsp;Now Playing
 
-<div align="center">
-
-<!-- Optional: sign up at https://spotify-github-profile.vercel.app to get your own widget -->
-<img src="https://novatorem-mu.vercel.app/api/spotify" width="400"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
 
 ## ✍️ &nbsp;Latest Blog Posts
 
