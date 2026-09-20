@@ -1,0 +1,18 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#05070c" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#waveGrad)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+      M0,80 C300,140 900,20 1200,80 L1200,150 L0,150 Z;
+      M0,60 C300,10 900,140 1200,60 L1200,150 L0,150 Z;
+      M0,80 C300,140 900,20 1200,80 L1200,150 L0,150 Z"/>
+  </path>
+  <text x="600" y="120" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="14" fill="#00d9ff" letter-spacing="2" opacity="0.85">
+    thanks for stopping by &#8212; happy shipping
+  </text>
+</svg>
