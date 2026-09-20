@@ -391,7 +391,7 @@ ATI SAMMANTHURAI &nbsp;•&nbsp; Final Year – Present
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+
 
 ## ✍️ &nbsp;Latest Blog Posts
 
@@ -423,7 +423,7 @@ ATI SAMMANTHURAI &nbsp;•&nbsp; Final Year – Present
 <a href="https://muhathifportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/></a>
 <a href="mailto:muhathifmuhathif26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/Muhaathif_MH"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/itz__muha__ofxl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/itz__muha__offxl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
