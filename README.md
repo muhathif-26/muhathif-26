@@ -397,11 +397,6 @@ ATI SAMMANTHURAI &nbsp;•&nbsp; Final Year – Present
 
 <br/>
 
-<img src="https://img.shields.io/badge/Codeforces-EDIT__ME-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-EDIT__ME-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-EDIT__ME-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-EDIT__ME-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
