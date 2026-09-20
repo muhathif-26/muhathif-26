@@ -262,27 +262,7 @@ prescribing and dispensing workflow.
 
 <div align="center">
 
-`Java`      &nbsp;&nbsp;![](https://progress-bar.dev/75/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`Python`    &nbsp;![](https://progress-bar.dev/85/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`JavaScript`![](https://progress-bar.dev/85/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`PHP`       &nbsp;&nbsp;&nbsp;![](https://progress-bar.dev/60/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`React`     &nbsp;&nbsp;![](https://progress-bar.dev/80/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`Node.js`   &nbsp;![](https://progress-bar.dev/78/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`Docker`    &nbsp;![](https://progress-bar.dev/55/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`AWS`       &nbsp;&nbsp;![](https://progress-bar.dev/50/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`System Design`![](https://progress-bar.dev/45/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-<br/>
-`SQL`       &nbsp;&nbsp;![](https://progress-bar.dev/70/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
-
-
+<img src="./assets/skills-progress.svg" width="100%" alt="Skills Progress"/>
 
 </div>
 
