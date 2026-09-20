@@ -1,21 +1,3 @@
-<!--
-  ═══════════════════════════════════════════════════════════════════════
-  SETUP CHECKLIST (delete this comment block once done)
-  ═══════════════════════════════════════════════════════════════════════
-  1. This file goes in a repo named exactly "muhathif-26" (a repo that
-     matches your username) so GitHub renders it on your profile.
-  2. Copy the /assets folder from this package into that repo's root.
-  3. Replace every "EDIT_ME" placeholder below (LinkedIn, portfolio,
-     email, X/Twitter, Discord, Instagram, demo links).
-  4. For the workflows in /.github/workflows to run:
-       - metrics.yml needs a repo secret METRICS_TOKEN
-         (a PAT with `repo` + `read:user` scope)
-       - update-readme.yml needs a repo secret GH_TOKEN (same scopes)
-       - snake.yml works out of the box with the default GITHUB_TOKEN
-  5. After the first snake.yml run, an "output" branch is created —
-     the snake image URLs below already point to it.
-  ═══════════════════════════════════════════════════════════════════════
--->
 
 <div align="center">
 
@@ -100,8 +82,8 @@ and a prescription management system.
 | ☕ **Coffee Level** | ████████░░ 80% |
 | 🚧 **Current Project** | Car Rental Booking System |
 | 📈 **Years Learning** | 2+ years |
-| 📍 **Location** | EDIT_ME |
-| 🕒 **Timezone** | EDIT_ME (UTC±X) |
+| 📍 **Location** | Nintavur , Sri Lanka  |
+| 🕒 **Timezone** | Sri Lanka (GMT±5:30) |
 | 💬 **Preferred Languages** | JavaScript, Python |
 | 🎯 **Current Goal** | Land a Software Developering internship |
 | 🌱 **Open Source** | Learning to contribute |
@@ -300,7 +282,7 @@ prescribing and dispensing workflow.
 <br/>
 `SQL`       &nbsp;&nbsp;![](https://progress-bar.dev/70/?scale=100&title=&width=280&color=00d9ff&suffix=%25)
 
-<sub>Edit the numbers in the `progress-bar.dev` URLs above to match your real skill levels.</sub>
+
 
 </div>
 
@@ -399,9 +381,9 @@ prescribing and dispensing workflow.
 
 <div align="center">
 
-**EDIT_ME — Degree / Program**
+**HNDIT — Program**
 <br/>
-EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
+ATI SAMMANTHURAI &nbsp;•&nbsp; Final Year – Present
 
 </div>
 
@@ -411,7 +393,7 @@ EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/EDIT_ME?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="180"/>
+<img src="https://leetcard.jacoblin.cool/muhathif_mx?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="180"/>
 
 <br/>
 
@@ -479,12 +461,11 @@ EDIT_ME Institution &nbsp;•&nbsp; EDIT_ME Year – Present
 <div align="center">
 
 <a href="https://github.com/muhathif-26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/EDIT_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhammad_muhathif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://muhathifportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/></a>
-<a href="mailto:EDIT_ME@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/EDIT_ME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://discord.com/users/EDIT_ME"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://instagram.com/EDIT_ME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:muhathifmuhathif26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/Muhaathif_MH"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/itz__muha__ofxl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
